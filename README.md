@@ -1,2 +1,2 @@
 # tutorial-github
-Author-karempudi lassi  
+Author-karempudi lassi  ok
